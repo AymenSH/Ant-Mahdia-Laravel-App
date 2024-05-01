@@ -1,2 +1,2 @@
-install : composer install
+install : composer install | 
 run server : php artisan serve
